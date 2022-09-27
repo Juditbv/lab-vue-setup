@@ -1,6 +1,6 @@
 <template>
 	<h2>hello {{ name }}</h2>
-	<button @click="helloWorld()">Button log</button>
+	<button @click="helloWorld">Button log</button>
 </template>
 
 <script setup>
